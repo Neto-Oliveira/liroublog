@@ -1,0 +1,36 @@
+*{
+    font-family: 'Merriweather', sans-serif;
+}
+
+body{
+    background-color: #000000;
+}
+
+header{
+    color: #ffffff;
+    text-align: center;
+}
+
+footer{
+    color: #ffffff;
+    text-align: center;
+}
+
+.container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  color: rgb(255, 255, 255);
+  padding: 50px;
+  border-radius: 10px;
+}
+
+.about {
+    color: rgb(255, 255, 255);
+    background-color: #1a1a1a;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+}
